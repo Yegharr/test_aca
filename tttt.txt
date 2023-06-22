@@ -1,1 +1,3 @@
-nkjhdkhkhkdhkdkhkdhkdhkdhhdkdkdhjhhjdjdhjdhjdhdjdhjvmnbmbjjdhdjk
+If the branch doesn't exist on the remote repository, Git will create it on the remote repository and push the branch along with its commits. If the branch already exists on the remote repository, Git will update the branch with the new commits you've made.
+
+It's worth noting that the first time you push a branch to a remot
